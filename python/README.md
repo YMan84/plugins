@@ -10,7 +10,7 @@ The Python interpreter shuts down when the Python extension is unloaded. After t
 
 ## Development
 
-How the Python extension interacts with Python modules is defined in the versioned interface specifications. Devs interested in writing extensions should check the interface specification below. Note that interfaces may brake any time as long as albert is still in alpha stage (v0.*).
+How the Python extension interacts with Python modules is defined in the versioned interface specifications. Devs interested in writing extensions should check the interface specification below. Note that interfaces may break any time as long as albert is still in alpha stage (v0.*).
 
 ## Deployment
 
